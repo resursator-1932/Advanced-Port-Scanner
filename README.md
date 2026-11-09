@@ -201,3 +201,6 @@ This repository serves as the official landing page for Advanced Port Scanner. T
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Advanced Port Scanner today!**
+
+---
+**Last updated:** 2026-11-09 00:42:20 UTC
