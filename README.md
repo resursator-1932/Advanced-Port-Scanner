@@ -203,4 +203,4 @@ This repository serves as the official landing page for Advanced Port Scanner. T
 **Get the most recent version of Advanced Port Scanner today!**
 
 ---
-**Last updated:** 2026-11-14 16:56:15 UTC
+**Last updated:** 2026-11-14 21:19:52 UTC
